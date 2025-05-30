@@ -81,7 +81,7 @@ Each model was applied both on the **scaled dataset** and **PCA-transformed data
 
 ---
 
-## Collaborators
+## 👥 Authors
 - [Yahia Aldeeb](https://github.com/YahiaAldeeb)
 - [Hana Omar](https://github.com/HanaOmar1)
 - [Abdelrahman Maamoun](https://github.com/amaamoun99)
