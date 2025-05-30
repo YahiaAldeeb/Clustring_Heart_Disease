@@ -81,6 +81,16 @@ Each model was applied both on the **scaled dataset** and **PCA-transformed data
 
 ---
 
+## Collaborators
+- [Yahia Aldeeb](https://github.com/YahiaAldeeb)
+- [Hana Omar](https://github.com/HanaOmar1)
+- [Abdelrahman Maamoun](https://github.com/amaamoun99)
+- [Manar Sayed](https://github.com/Manarsayedd)
+- [Yasmeen Ahmed](https://github.com/yassmeenahmedd)
+- [Farida Ali](https://github.com/farridaali)
+
+---
+
 ## 🚀 How to Run
 
 1. Make sure R and RStudio are installed.
